@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mi música</title>
+  </head>
+  <body style="margin:0; background:black; display:flex; justify-content:center; align-items:center; height:100vh;">
+    <audio controls autoplay style="width: 80%;">
+      <source src="https://tusitio.com/mimusica.mp3" type="audio/mpeg">
+      Tu navegador no soporta el elemento de audio.
+    </audio>
+  </body>
+</html> 
